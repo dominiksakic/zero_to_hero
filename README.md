@@ -1,7 +1,7 @@
 # Source: https://www.youtube.com/@AndrejKarpathy
 
 # Future Plan
-1. Implement Convolutions
+1. Implement Convolutions (Done)
 2. Learning about experimental harness
 3. Better training Statistics
 4. Residual Connections
