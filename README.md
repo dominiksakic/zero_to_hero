@@ -7,5 +7,5 @@
 4. Residual Connections
 5. Skip Connections
 6. RNNs
-7. adamw optimizer
+7. adamw optimizer (done)
 8. Transformers/GPT
