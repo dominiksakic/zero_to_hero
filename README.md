@@ -8,4 +8,4 @@
 5. Skip Connections
 6. RNNs
 7. adamw optimizer (done)
-8. Transformers/GPT
+8. Transformers/GPT (done)
